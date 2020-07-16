@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="243d2ec4-d7c2-4d8f-b86c-1a96dbb6bc62" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="243d2ec4-d7c2-4d8f-b86c-1a96dbb6bc62" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -306,7 +303,7 @@
       <workItem from="1594865808123" duration="3346000" />
       <workItem from="1594869169819" duration="1925000" />
       <workItem from="1594871111420" duration="882000" />
-      <workItem from="1594881142254" duration="5241000" />
+      <workItem from="1594881142254" duration="5485000" />
     </task>
     <task id="LOCAL-00001" summary=".gitignore commit">
       <created>1594866447983</created>
@@ -364,7 +361,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594887219288</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="提交">
+      <created>1594889263198</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1594889263198</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,14 +425,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="474" y="319" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.824@0.0.1536.824" timestamp="1594288799210" />
-    <state x="-7" y="13" width="1246" height="811" key="CommitChangelistDialog2" timestamp="1594887218561">
+    <state x="-7" y="13" width="1246" height="811" key="CommitChangelistDialog2" timestamp="1594889262759">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="-7" y="13" width="1246" height="811" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594887218561" />
-    <state x="0" y="57" key="DiffContextDialog" timestamp="1594871831157">
+    <state x="-7" y="13" width="1246" height="811" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1594889262759" />
+    <state x="0" y="57" key="DiffContextDialog" timestamp="1594889313735">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="0" y="57" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1594871831157" />
+    <state x="0" y="57" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1594889313735" />
     <state x="718" y="171" key="FileChooserDialogImpl" timestamp="1594869749478">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -505,10 +509,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="166" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1594865968061" />
-    <state x="44" y="132" width="815" height="532" key="Vcs.Push.Dialog.v2" timestamp="1594886638066">
+    <state x="44" y="132" width="815" height="532" key="Vcs.Push.Dialog.v2" timestamp="1594889314586">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="44" y="132" width="815" height="532" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594886638066" />
+    <state x="44" y="132" width="815" height="532" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1594889314586" />
     <state x="145" y="192" key="git4idea.merge.GitPullDialog" timestamp="1594869907500">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
